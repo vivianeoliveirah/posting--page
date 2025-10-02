@@ -59,6 +59,6 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor(a)
 
 Feito com ☕ por **Viviane Oliveira Soares**
